@@ -8,7 +8,7 @@ pd.set_option('display.expand_frame_repr', False)
 # Conexão com o MySql
 conexao = connector.connect(host='localhost',
                             user='root',
-                            password='Y@g22523464',
+                            password=
                             database='world')
 
 
